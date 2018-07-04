@@ -1,2 +1,2 @@
-# McES
- Multiplatform Cloud Emulation System for Retrogames
+# Web applications
+ To use everyday, anywhere
